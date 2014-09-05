@@ -1,5 +1,9 @@
 .credits {
-  display : none; 
+  display : none;
+}
+
+.navbar {
+  display : none;
 }
 
 .positioner {
