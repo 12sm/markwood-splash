@@ -24,7 +24,7 @@
             <input type="text" name="email">
           </div>
           <div class="atag col-sm-12">
-            <a type="button" id="submitEmail"><img src="wp-content/themes/splash/assets/img/arrow-left.png">SUBMIT<img src="wp-content/themes/splash/assets/img/arrow-right.png"></a>
+            <img src="wp-content/themes/splash/assets/img/arrow-left.png"><a type="button" id="submitEmail">SUBMIT</a><img src="wp-content/themes/splash/assets/img/arrow-right.png">
           </div>
         </form>
       </div>
