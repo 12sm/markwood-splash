@@ -1,0 +1,71 @@
+.credits {
+  display : none; 
+}
+
+.positioner {
+  padding-top : 100px;
+}
+
+h1 {
+  font-family : "kepler-std-semicondensed-dis";
+  font-size : 50px;
+  color : #ffffff;
+  letter-spacing : 45px;
+  padding-left : 45px;
+}
+
+h4 {
+  font-family : "franklin-gothic-urw";
+  font-size : 18px;
+  color : #7b7b7b;
+  padding-bottom : 20px;
+}
+
+a {
+  font-family : "kepler-std-semicondensed-dis";
+  font-size : 16px;
+  color : #ffffff;
+  letter-spacing : 5px;
+  vertical-align : middle;
+}
+
+.atag {
+  margin-top : 15px;
+}
+
+img {
+  vertical-align : middle;
+}
+
+body {
+  background-image : url(../img/bg-all.jpg);
+  background-size : cover;
+}
+
+input {
+  background : none;
+  color: #FFF;
+  border : none;
+  border-bottom : 1px solid grey;
+  width : 30%;
+}
+
+div {
+  text-align : center;
+}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+/* Extra small devices (phones, up to 480px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm) { }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md) { }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg) { }
