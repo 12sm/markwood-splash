@@ -47,10 +47,9 @@ body {
 }
 
 input {
-  background : none;
+  background-color : #7b7b7b;
   color: #FFF;
-  border : none;
-  border-bottom : 1px solid grey;
+  border-radius : 3px;
   width : 30%;
 }
 
