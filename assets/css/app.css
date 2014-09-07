@@ -46,7 +46,7 @@ body {
   background-image : url(../img/bg-all.jpg);
   background-size : cover;
   height : 100%;
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-color: rgb(0,0,0);
 }
 
