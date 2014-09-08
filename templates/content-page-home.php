@@ -2,7 +2,7 @@
 <script type="text/javascript" src="//use.typekit.net/fez7qrq.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <meta charset="utf-8">
-<div id="shell"><img src="assets/img/bg-all.jpg"></div>
+<div id="shell"><img src="wp-content/themes/splash/assets/img/bg-all.jpg"></div>
 <div class="positioner">
   <div class="row" id="soon">
     <div class="col-xs-12">
