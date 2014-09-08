@@ -98,7 +98,7 @@ div {
 }
 
 .logo {
-  width : 60%
+  width : 83%
 }
 
 .nopad {
@@ -109,6 +109,8 @@ div {
 
 iframe {
   width : 80%;
+  box-shadow : 0px 0px 5px gray;
+  border : none;
 }
 
 /* ==========================================================================
