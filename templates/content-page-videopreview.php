@@ -9,7 +9,7 @@
     </div>
     <div class="row">
       <div class="col-xs-12">
-        <iframe src="https://www.youtube.com/embed/VpkBrLlwA8M&list=PLC6F3900FFB9E8AF7&index=5"></iframe>
+        <iframe src="https://www.youtube.com/embed/IukYi79V7jA"></iframe>
       </div>
     </div>
     <div class="row">
