@@ -126,17 +126,12 @@ iframe {
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: @screen-sm) {
-  .container {
-    width : 100% !important;
-    margin : 0px 0px !important;
-    padding : 0px 0px !important;
-  }
-
-  .previewshell, .shell {
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+  .shell {
+    -webkit-background-size: 163%;
+    -moz-background-size: 163%;
+    -o-background-size: 163%;
+    background-size: 163%;
+    padding: 30% 0%!important;
   }
 }
 
