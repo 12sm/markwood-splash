@@ -4,7 +4,7 @@
   <div id="previewpositioner">
     <div class="row">
       <div class="col-xs-12">
-        <img id="logo" src="../wp-content/themes/splash/assets/img/logo.png">
+        <img class="logo" src="../wp-content/themes/splash/assets/img/logo.png">
       </div>
     </div>
     <div class="row">
@@ -17,7 +17,7 @@
         <h4 class="nopad">Thanks for signing up. After you watch the video, head over to:</h4>
       </div>
       <div class="col-xs-12">
-        <a href="http://www.electrifyyourstrings.com/"><span id="site">ElectrifyYourStrings</span><span id='dotcom'>.com</span></a>
+        <a href="http://www.electrifyyourstrings.com/"><img class="logo" src="../wp-content/themes/splash/assets/img/eys-logo.png"></a>
       </div>
     </div>
   </div>
