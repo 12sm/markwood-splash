@@ -7,7 +7,7 @@
 }
 
 #positioner {
-  margin-top : 55%;
+  margin-top : 62%;
 }
 
 h1 {
@@ -43,7 +43,7 @@ img {
   vertical-align : middle;
 }
 
-body {
+.shell {
   background-image : url(../img/bg-all.jpg);
   background-repeat: no-repeat;
   background-position: center 0;
