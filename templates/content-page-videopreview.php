@@ -4,7 +4,7 @@
   <div id="positioner">
     <div class="row" id="logo">
       <div class="col-xs-12">
-        <img src="wp-content/themes/splash/assets/img/logo.png">
+        <img src="../wp-content/themes/splash/assets/img/logo.png">
       </div>
     </div>
     <div class="row">
