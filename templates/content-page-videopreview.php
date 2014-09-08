@@ -14,7 +14,10 @@
     </div>
     <div class="row">
       <div class="col-xs-12">
-        <h4>Thanks for signing up. After you watch the video, head over to:</h4>
+        <h4>Thanks for signing up.</h4>
+      </div>
+      <div class='col-xs-12'>
+        <h4>After you watch the video, head over to:</h4>
       </div>
       <div class="atag col-xs-12">
         <a href="videopreview"><span id="site">ElectrifyYourStrings</span><span id='dotcom'>.com</span></a>
