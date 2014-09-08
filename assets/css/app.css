@@ -42,14 +42,11 @@ img {
   vertical-align : middle;
 }
 
-#shell {
+body {
   background-image : url(../img/bg-all.jpg);
   background-size : contain;
   background-repeat: no-repeat;
   background-position : center;
-}
-
-body {
   background-color: rgb(0,0,0);
 }
 
