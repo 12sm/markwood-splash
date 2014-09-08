@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <title>The Method</title>
   </head>
-  <body id="container" class="grey">
+  <body class="grey">
     <div id="shell">
       <div class="positioner">
         <div class="row" id="soon">
