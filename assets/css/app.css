@@ -20,15 +20,15 @@
 
 h1 {
   font-family : "kepler-std-semicondensed-dis";
-  font-size : 50px;
+  font-size : 30px;
   color : #ffffff;
-  letter-spacing : 45px;
-  padding-left : 45px;
+  letter-spacing : 10px;
+  padding-left : 10px;
 }
 
 h4 {
   font-family : "franklin-gothic-urw";
-  font-size : 18px;
+  font-size : 10px;
   color : #7b7b7b;
   padding-bottom : 20px;
 }
