@@ -78,7 +78,7 @@ img {
 }
 
 .emailbox {
-  position : relative
+  position : relative;
 }
 
 input {
@@ -98,7 +98,7 @@ div {
 }
 
 .logo {
-  width : 83%
+  width : 83%;
 }
 
 .nopad {
@@ -115,7 +115,6 @@ iframe {
   width : 83%;
   box-shadow : 0px 0px 5px gray;
   border : none;
-  padding-top : 6px
 }
 
 /* ==========================================================================
