@@ -125,7 +125,7 @@ iframe {
 /* No media query since this is the default in Bootstrap */
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm) {
+@media (min-width: 768px) {
   .shell {
     -webkit-background-size: 163%;
     -moz-background-size: 163%;
