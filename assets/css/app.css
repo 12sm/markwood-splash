@@ -8,10 +8,9 @@
 
 .positioner {
   position : absolute;
-  left : 25%;
-  width : 50%;
+  width : 100%;
   background-image : url(../img/bg-all.jpg);
-  background-size : contain;
+  background-size : cover;
   background-repeat: no-repeat;
   background-position : center;
 }
