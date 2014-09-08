@@ -61,7 +61,7 @@ img {
   -moz-background-size: 190%;
   -o-background-size: 190%;
   background-size: 190%;
-  padding : 0px !important;
+  padding : 0px 0px 20% 0px !important;
 }
 
 .shell {
@@ -166,7 +166,7 @@ iframe {
     -moz-background-size: 120%;
     -o-background-size: 120%;
     background-size: 120%;
-    padding: 22% 0%!important;
+    padding: 20% 0%!important;
   }
 
   h1 {
