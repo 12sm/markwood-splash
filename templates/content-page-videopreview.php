@@ -2,9 +2,9 @@
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <div class="container previewshell">
   <div id="previewpositioner">
-    <div class="row" id="logo">
+    <div class="row">
       <div class="col-xs-12">
-        <img src="../wp-content/themes/splash/assets/img/logo.png">
+        <img id="logo" src="../wp-content/themes/splash/assets/img/logo.png">
       </div>
     </div>
     <div class="row">
