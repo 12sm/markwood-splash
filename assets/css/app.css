@@ -73,8 +73,8 @@ img {
   -webkit-background-size: 190%;
   -moz-background-size: 190%;
   -o-background-size: 190%;
-  background-size: contain;
-  padding: 15% 5%!important;
+  background-size: 190%;
+  padding: 55% 0%!important;
 }
 
 .emailbox {
