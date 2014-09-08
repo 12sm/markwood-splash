@@ -1,6 +1,6 @@
 <script type="text/javascript" src="//use.typekit.net/fez7qrq.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<div class="container previewshell">
+<div class="previewshell">
   <div id="previewpositioner">
     <div class="row">
       <div class="col-xs-12">
