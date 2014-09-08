@@ -18,7 +18,7 @@
           <input type="text" name="email">
         </div>
         <div class="atag col-xs-12">
-          <img src="wp-content/themes/splash/assets/img/arrow-left.png"><a href="wp-content/themes/splash/templates/videopreview.php" type="button" id="submitEmail">SUBMIT</a><img src="wp-content/themes/splash/assets/img/arrow-right.png">
+          <img src="wp-content/themes/splash/assets/img/arrow-left.png"><a href="/var/www/vhosts/12southdev/method.electrifyyourstrings.com/wp-content/themes/splash/templates/videopreview.php" type="button" id="submitEmail">SUBMIT</a><img src="wp-content/themes/splash/assets/img/arrow-right.png">
         </div>
       </form>
     </div>
