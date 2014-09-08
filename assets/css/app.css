@@ -7,7 +7,7 @@
 }
 
 #positioner {
-  margin-top : 62%;
+  margin-top : 60%;
 }
 
 body {
@@ -49,6 +49,19 @@ a {
 
 img {
   vertical-align : middle;
+}
+
+.previewshell {
+  background-image : url(../img/bg-blank.jpg);
+  background-repeat: no-repeat;
+  background-position: center 0;
+  background-attachment: fixed;
+  background-color: rgb(0,0,0);
+  -webkit-background-size: 190%;
+  -moz-background-size: 190%;
+  -o-background-size: 190%;
+  background-size: 190%;
+  padding : 0px !important;
 }
 
 .shell {
