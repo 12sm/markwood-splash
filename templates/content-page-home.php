@@ -1,7 +1,7 @@
 
 <script type="text/javascript" src="//use.typekit.net/fez7qrq.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<div class="positioner">
+<div id="positioner">
   <div class="row" id="soon">
     <div class="col-xs-12">
       <h1>COMING SOON</h1>
