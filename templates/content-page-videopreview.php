@@ -17,7 +17,7 @@
         <input type="text" name="email">
       </div>
       <div class="atag col-xs-12">
-        <img src="wp-content/themes/splash/assets/img/arrow-left.png"><a href="/videopreview/">SUBMIT</a><img src="wp-content/themes/splash/assets/img/arrow-right.png">
+        <img src="wp-content/themes/splash/assets/img/arrow-left.png"><a href="videopreview">SUBMIT</a><img src="wp-content/themes/splash/assets/img/arrow-right.png">
       </div>
     </div>
   </div>
