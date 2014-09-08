@@ -7,7 +7,15 @@
 }
 
 .positioner {
-  padding-top : 100px;
+  position : absolute;
+  left : 25%;
+  width : 50%;
+  background-image : url(../img/bg-all.jpg);
+  background-size : contain;
+  height : 100%;
+  background-repeat: no-repeat;
+  background-color: rgb(0,0,0);
+  background-position : center;
 }
 
 h1 {
@@ -43,11 +51,7 @@ img {
 }
 
 body {
-  background-image : url(../img/bg-all.jpg);
-  background-size : cover;
-  height : 100%;
-  background-repeat: no-repeat;
-  background-color: rgb(0,0,0);
+  position : relative;
 }
 
 input {
