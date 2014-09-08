@@ -152,7 +152,7 @@ iframe {
 }
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md) {
+@media (min-width: 992px) {
 
 }
 
