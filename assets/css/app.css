@@ -12,15 +12,15 @@
 
 h1 {
   font-family : "kepler-std-semicondensed-dis";
-  font-size : 30px;
+  font-size : 36px;
   color : #ffffff;
-  letter-spacing : 10px;
+  letter-spacing : 8px;
   padding-left : 10px;
 }
 
 h4 {
   font-family : "franklin-gothic-urw";
-  font-size : 10px;
+  font-size : 13px;
   color : #7b7b7b;
   padding-bottom : 20px;
 }
@@ -54,12 +54,20 @@ body {
   background-size: cover;
 }
 
+.emailbox {
+  position : relative
+}
+
 input {
   background-color : #7b7b7b;
   color: #FFF;
   border-radius : 3px;
+  position : absolute;
   width : 30%;
+  left : 50%;
+  margin-left : -15%;
   border : none;
+
 }
 
 div {

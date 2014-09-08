@@ -15,7 +15,7 @@
     </div>
     <div class="row">
       <form action="submit">
-        <div class="col-xs-12">
+        <div class="emailbox col-xs-12">
           <input type="text" name="email">
         </div>
         <div class="atag col-xs-12">
