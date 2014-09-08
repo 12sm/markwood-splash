@@ -74,7 +74,7 @@ img {
   -moz-background-size: 190%;
   -o-background-size: 190%;
   background-size: 190%;
-  padding: 55% 0%!important;
+  padding: 45% 0%!important;
 }
 
 .emailbox {
@@ -132,6 +132,22 @@ iframe {
     -o-background-size: 163%;
     background-size: 163%;
     padding: 30% 0%!important;
+  }
+
+  h1 {
+    font-size: 50px;
+    letter-spacing: 30px;
+    padding-left: 25px;
+  }
+
+  h4 {
+    font-size: 16px;
+    padding-bottom: 15px;
+  }
+
+  input {
+    width : 30%;
+    margin-left : -15%;
   }
 }
 
