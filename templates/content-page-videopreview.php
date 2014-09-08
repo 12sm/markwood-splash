@@ -4,12 +4,12 @@
   <div id="positioner">
     <div class="row" id="logo">
       <div class="col-xs-12">
-        <img src='wp-content/themes/splash/assets/img/logo.png'>
+        <img src="wp-content/themes/splash/assets/img/logo.png">
       </div>
     </div>
     <div class="row">
       <div class="col-xs-12">
-        <iframe src='https://www.youtube.com/watch?v=VpkBrLlwA8M&list=PLC6F3900FFB9E8AF7&index=5'></iframe>
+        <iframe src="https://www.youtube.com/watch?v=VpkBrLlwA8M&list=PLC6F3900FFB9E8AF7&index=5"></iframe>
       </div>
     </div>
     <div class="row">
