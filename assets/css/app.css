@@ -14,6 +14,10 @@ body {
   background-color: rgb(0,0,0);
 }
 
+main {
+  padding : 0px !important;
+}
+
 h1 {
   font-family : "kepler-std-semicondensed-dis";
   font-size : 36px;
@@ -57,6 +61,7 @@ img {
   -moz-background-size: 190%;
   -o-background-size: 190%;
   background-size: 190%;
+  padding : 0px !important;
 }
 
 .emailbox {
