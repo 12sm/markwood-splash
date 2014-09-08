@@ -7,7 +7,7 @@
         <img class="logo" src="../wp-content/themes/splash/assets/img/logo.png">
       </div>
     </div>
-    <div class="row">
+    <div class="frame row">
       <div class="col-xs-12">
         <iframe src="https://www.youtube.com/embed/IukYi79V7jA"></iframe>
       </div>
