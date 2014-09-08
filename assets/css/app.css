@@ -125,34 +125,24 @@ iframe {
 /* No media query since this is the default in Bootstrap */
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm) { }
+@media (min-width: @screen-sm) {
+  .wrap {
+    width : 100%;
+  }
+  .previewshell, .shell {
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+  }
+}
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: @screen-md) {
-  body {
-    background-image : url(../img/bg-all.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    background-color: rgb(0,0,0);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: @screen-lg) {
-  body {
-    background-image : url(../img/bg-all.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    background-color: rgb(0,0,0);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+
 }
