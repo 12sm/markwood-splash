@@ -63,8 +63,8 @@ function roots_display_sidebar() {
      */
     array(
       'template-custom.php',
-      'templates-home.php',
-      'templates-videopreview'
+      'template-home.php',
+      'template-videopreview.php'
     )
   );
 
