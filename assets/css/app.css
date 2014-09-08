@@ -7,7 +7,7 @@
 }
 
 #positioner {
-  margin-top : 45%;
+  margin-top : 10%;
 }
 
 body {
@@ -65,7 +65,7 @@ img {
 }
 
 .shell {
-  background-image : url(../img/bg-all.jpg);
+  background-image: url(../img/bg-all.jpg);
   background-repeat: no-repeat;
   background-position: center 0;
   background-attachment: fixed;
@@ -73,8 +73,8 @@ img {
   -webkit-background-size: 190%;
   -moz-background-size: 190%;
   -o-background-size: 190%;
-  background-size: 190%;
-  padding : 0px !important;
+  background-size: contain;
+  padding: 15% 5%!important;
 }
 
 .emailbox {
