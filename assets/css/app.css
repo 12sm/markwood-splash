@@ -43,6 +43,15 @@ img {
 }
 
 body {
+  width: 100%;
+  height:auto;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+  position: absolute;
+}
+
+.shell {
   background-image : url(../img/bg-all.jpg);
   background-repeat: no-repeat;
   background-position: center center;
