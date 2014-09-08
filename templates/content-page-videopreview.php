@@ -4,20 +4,20 @@
   <div id="positioner">
     <div class="row" id="logo">
       <div class="col-xs-12">
-        <img src
+        <img src='wp-content/themes/splash/assets/img/logo.png'>
       </div>
     </div>
     <div class="row">
       <div class="col-xs-12">
-        <h4>Enter your email to access the video preview:</h4>
+        <iframe src='https://www.youtube.com/watch?v=VpkBrLlwA8M&list=PLC6F3900FFB9E8AF7&index=5'></iframe>
       </div>
     </div>
     <div class="row">
-      <div class="emailbox col-xs-12">
-        <input type="text" name="email">
+      <div class="col-xs-12">
+        <h4>Thanks for signing up. After you watch the video, head over to:</h4>
       </div>
       <div class="atag col-xs-12">
-        <img src="wp-content/themes/splash/assets/img/arrow-left.png"><a href="videopreview">SUBMIT</a><img src="wp-content/themes/splash/assets/img/arrow-right.png">
+        <a href="videopreview"><span id="site">ElectrifyYourStrings</span><span id='dotcom'>.com</span></a>
       </div>
     </div>
   </div>
