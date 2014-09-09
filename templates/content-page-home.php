@@ -1,16 +1,16 @@
 <div class="shell">
   <div id="positioner">
-    <div class="row" id="soon">
+    <div id="soon">
       <div class="col-xs-12">
         <h1>COMING SOON</h1>
       </div>
     </div>
-    <div class="row">
+    <div>
       <div class="col-xs-12">
         <h4>Enter your email to access the video preview:</h4>
       </div>
     </div>
-    <div class="row">
+    <div>
       <form action="//electrifyyourstrings.us9.list-manage.com/subscribe/post?u=ed36aed8dc2f652b6704be7e7&amp;id=97a4021445" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div class="emailbox col-xs-12">
           <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
@@ -28,7 +28,7 @@
         </div>
       </form>
     </div>
-    <div id="socials row">
+    <div id="socials">
       <div class="col-xs-12">
         <ul id="icons">
           <li id="facebook"><a href="https://www.facebook.com/electrifyyourstrings"><i class="fa fa-facebook"></i></a></li>

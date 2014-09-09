@@ -1,18 +1,18 @@
 <div class="previewshell">
   <div id="previewpositioner">
-    <div class="row">
+    <div>
       <div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
         <img class="logo" src="../wp-content/themes/splash/assets/img/logo.png">
       </div>
     </div>
-    <div class="frame row">
+    <div class="frame">
       <div class="col-xs-8 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-4">
         <div class="video">
           <iframe width="1140" height="641" src="//www.youtube.com/embed/IukYi79V7jA" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
     </div>
-    <div class="row">
+    <div>
       <div class="col-xs-12">
         <h4 class="nopad">Thanks for signing up. After you watch the video, head over to:</h4>
       </div>
@@ -20,7 +20,7 @@
         <a href="http://www.electrifyyourstrings.com/"><img class="logo" src="../wp-content/themes/splash/assets/img/eys-logo.png"></a>
       </div>
     </div>
-    <div id="socials row">
+    <div id="socials">
       <div class="col-xs-12">
         <ul id="icons">
           <li id="facebook"><a href="https://www.facebook.com/electrifyyourstrings"><i class="fa fa-facebook"></i></a></li>
