@@ -119,6 +119,9 @@ iframe {
 
 .icons {
   list-style : none;
+}
+
+li {
   display : inline-block;
 }
 
