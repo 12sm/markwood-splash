@@ -8,6 +8,7 @@
     <div>
       <div class="col-xs-12">
         <h4>Enter your email to access the video preview:</h4>
+        <h4 class="nopad">(By entering your email, you opt in to receive occasional updates from Electrify Your Strings)</h4>
       </div>
     </div>
     <div>
@@ -22,7 +23,7 @@
 	<div style="position: absolute; left: -5000px;"><input type="text" name="b_ed36aed8dc2f652b6704be7e7_97a4021445" tabindex="-1" value=""></div>
         <div class="atag col-xs-12">
           <img src="wp-content/themes/splash/assets/img/arrow-left.png">
-          		<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+          		<input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button">
           		<a href="videopreview" type="button" id="submitEmail">SUBMIT</a>
           <img src="wp-content/themes/splash/assets/img/arrow-right.png">
         </div>
