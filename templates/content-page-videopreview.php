@@ -1,5 +1,3 @@
-<script type="text/javascript" src="//use.typekit.net/fez7qrq.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <div class="previewshell">
   <div id="previewpositioner">
     <div class="row">
@@ -19,6 +17,15 @@
       <div class="col-xs-12">
         <a href="http://www.electrifyyourstrings.com/"><img class="logo" src="../wp-content/themes/splash/assets/img/eys-logo.png"></a>
       </div>
+    </div>
+    <div id="socials row">
+      <div class=""
+      <ul id="icons">
+        <li id="facebook"><i class="fa fa-facebook"></i></li>
+        <li id="twitter"><i class="fa fa-twitter"></i></li>
+        <li id="tumbler"><i class="fa fa-tumblr"></i></li>
+        <li id="mail"><i class="fa fa-envelope"></i></li>
+      </ul>
     </div>
   </div>
 </div>

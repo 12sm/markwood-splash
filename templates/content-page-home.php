@@ -1,5 +1,3 @@
-<script type="text/javascript" src="//use.typekit.net/fez7qrq.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <div class="shell">
   <div id="positioner">
     <div class="row" id="soon">
@@ -21,6 +19,15 @@
           <img src="wp-content/themes/splash/assets/img/arrow-left.png"><a href="videopreview" type="button" id="submitEmail">SUBMIT</a><img src="wp-content/themes/splash/assets/img/arrow-right.png">
         </div>
       </form>
+    </div>
+    <div id="socials row">
+      <div class=""
+      <ul id="icons">
+        <li id="facebook"><i class="fa fa-facebook"></i></li>
+        <li id="twitter"><i class="fa fa-twitter"></i></li>
+        <li id="tumbler"><i class="fa fa-tumblr"></i></li>
+        <li id="mail"><i class="fa fa-envelope"></i></li>
+      </ul>
     </div>
   </div>
 </div>

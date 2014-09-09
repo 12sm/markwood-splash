@@ -74,7 +74,7 @@ img {
   -moz-background-size: 190%;
   -o-background-size: 190%;
   background-size: 190%;
-  padding: 45% 0%!important;
+  padding: 45% 0% !important;
 }
 
 .emailbox {
@@ -131,7 +131,15 @@ iframe {
     -moz-background-size: 145%;
     -o-background-size: 145%;
     background-size: 145%;
-    padding: 27% 0%!important;
+    padding: 27% 0% !important;
+  }
+
+  .previewshell {
+    -webkit-background-size: 162%;
+    -moz-background-size: 162%;
+    -o-background-size: 162%;
+    background-size: 162%;
+    padding: 0px 0px 28% 0px !important;
   }
 
   h1 {
@@ -166,7 +174,7 @@ iframe {
     -moz-background-size: 120%;
     -o-background-size: 120%;
     background-size: 120%;
-    padding: 20% 0%!important;
+    padding: 20% 0% !important;
   }
 
   h1 {
