@@ -1,3 +1,15 @@
+body {
+  background-image: url(../img/bg-all.jpg);
+  background-repeat: no-repeat;
+  background-position: center 0;
+  background-attachment: fixed;
+  background-color: rgb(0,0,0);
+  -webkit-background-size: 190%;
+  -moz-background-size: 190%;
+  -o-background-size: 190%;
+  background-size: 190%;	
+}
+
 .credits {
   display : none;
 }
@@ -65,15 +77,6 @@ img {
 }
 
 .shell {
-  background-image: url(../img/bg-all.jpg);
-  background-repeat: no-repeat;
-  background-position: center 0;
-  background-attachment: fixed;
-  background-color: rgb(0,0,0);
-  -webkit-background-size: 190%;
-  -moz-background-size: 190%;
-  -o-background-size: 190%;
-  background-size: 190%;
   padding: 45% 0px 0px 0px!important;
 }
 
@@ -141,12 +144,15 @@ i {
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-  .shell {
-    -webkit-background-size: 145%;
+  body {
+	-webkit-background-size: 145%;
     -moz-background-size: 145%;
     -o-background-size: 145%;
-    background-size: 145%;
-    padding: 27% 0px 0px 0px!important;
+    background-size: 145%;  
+  }
+  
+  .shell {
+  padding: 27% 0px 0px 0px!important;
   }
 
   .previewshell {
@@ -200,11 +206,14 @@ i {
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-  .shell {
+body {
     -webkit-background-size: 120%;
     -moz-background-size: 120%;
     -o-background-size: 120%;
-    background-size: 120%;
+    background-size: 120%;	
+}
+
+  .shell {
     padding: 20% 0px 0px 0px!important
   }
 
