@@ -23,7 +23,7 @@
         <ul id="icons">
           <li id="facebook"><a href="https://www.facebook.com/electrifyyourstrings"><i class="fa fa-facebook"></i></a></li>
           <li id="twitter"><a href="https://twitter.com/markwoodmusic"><i class="fa fa-twitter"></i></a></li>
-          <li id="tumbler"><a href="https://www.tumblr.com/"><i class="fa fa-tumblr"></i></a></li>
+          <li id="youtube"><a href="http://www.youtube.com/user/markwoodtv"><i class="fa fa-youtube"></i></a></li>
           <li id="mail"><a href="http://www.mailermailer.com/x?oid=20704u"><i class="fa fa-envelope"></i></a></li>
         </ul>
       </div>
