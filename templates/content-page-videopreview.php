@@ -6,7 +6,7 @@
       </div>
     </div>
     <div class="frame">
-      <div class="col-xs-8 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-4">
+      <div class="col-xs-8 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
         <div class="video">
           <iframe width="1140" height="641" src="//www.youtube.com/embed/IukYi79V7jA" frameborder="0" allowfullscreen></iframe>
         </div>
