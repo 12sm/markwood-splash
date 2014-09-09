@@ -10,6 +10,18 @@ body {
   background-size: 190%;	
 }
 
+body.thank-you {
+  background-image : url(../img/bg-blank.jpg);
+  background-repeat: no-repeat;
+  background-position: center 0;
+  background-attachment: fixed;
+  background-color: rgb(0,0,0);
+  -webkit-background-size: 190%;
+  -moz-background-size: 190%;
+  -o-background-size: 190%;
+  background-size: 190%;
+}
+
 .credits {
   display : none;
 }
@@ -61,19 +73,6 @@ a {
 
 img {
   vertical-align : middle;
-}
-
-.previewshell {
-  background-image : url(../img/bg-blank.jpg);
-  background-repeat: no-repeat;
-  background-position: center 0;
-  background-attachment: fixed;
-  background-color: rgb(0,0,0);
-  -webkit-background-size: 190%;
-  -moz-background-size: 190%;
-  -o-background-size: 190%;
-  background-size: 190%;
-  padding : 0px 0px 20% 0px !important;
 }
 
 .shell {
@@ -156,10 +155,6 @@ i {
   }
 
   .previewshell {
-    -webkit-background-size: 162%;
-    -moz-background-size: 162%;
-    -o-background-size: 162%;
-    background-size: 162%;
     padding: 0px 0px 28% 0px !important;
   }
 
@@ -196,10 +191,6 @@ i {
   }
 
   .previewshell {
-    -webkit-background-size: 140%;
-    -moz-background-size: 140%;
-    -o-background-size: 140%;
-    background-size: 140%;
     padding: 0px 0px 28% 0px !important;
   }
 }
@@ -211,6 +202,10 @@ body {
     -moz-background-size: 120%;
     -o-background-size: 120%;
     background-size: 120%;	
+}
+
+.previewshell {
+  padding : 0px 0px 20% 0px !important;	
 }
 
   .shell {
