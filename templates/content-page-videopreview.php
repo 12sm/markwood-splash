@@ -6,8 +6,10 @@
       </div>
     </div>
     <div class="frame row">
-      <div class="video col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
-        <iframe src="https://www.youtube.com/embed/IukYi79V7jA"></iframe>
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+        <div class="video">
+          <iframe src="https://www.youtube.com/embed/IukYi79V7jA"></iframe>
+        </div>
       </div>
     </div>
     <div class="row">
