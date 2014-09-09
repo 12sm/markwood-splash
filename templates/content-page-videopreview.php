@@ -16,7 +16,7 @@
       <div class="col-xs-12">
         <h4 class="nopad">Thanks for signing up. After you watch the video, head over to:</h4>
       </div>
-      <div class="col-xs-12 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
+      <div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
         <a href="http://www.electrifyyourstrings.com/"><img class="logo" src="../wp-content/themes/splash/assets/img/eys-logo.png"></a>
       </div>
     </div>
