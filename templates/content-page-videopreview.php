@@ -8,7 +8,7 @@
     <div class="frame row">
       <div class="col-xs-8 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
         <div class="video">
-          <iframe src="https://www.youtube.com/embed/IukYi79V7jA"></iframe>
+          <iframe width="1280" height="750" src="//www.youtube.com/embed/IukYi79V7jA" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
     </div>
