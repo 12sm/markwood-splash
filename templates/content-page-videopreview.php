@@ -19,13 +19,14 @@
       </div>
     </div>
     <div id="socials row">
-      <div class=""
-      <ul id="icons">
-        <li id="facebook"><i class="fa fa-facebook"></i></li>
-        <li id="twitter"><i class="fa fa-twitter"></i></li>
-        <li id="tumbler"><i class="fa fa-tumblr"></i></li>
-        <li id="mail"><i class="fa fa-envelope"></i></li>
-      </ul>
+      <div class="col-xs-12">
+        <ul id="icons">
+          <li id="facebook"><i class="fa fa-facebook"></i></li>
+          <li id="twitter"><i class="fa fa-twitter"></i></li>
+          <li id="tumbler"><i class="fa fa-tumblr"></i></li>
+          <li id="mail"><i class="fa fa-envelope"></i></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
