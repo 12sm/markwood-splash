@@ -1,12 +1,12 @@
 <div class="previewshell">
   <div id="previewpositioner">
     <div class="row">
-      <div class="col-xs-12">
+      <div class="col-xs-12 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
         <img class="logo" src="../wp-content/themes/splash/assets/img/logo.png">
       </div>
     </div>
     <div class="frame row">
-      <div class="col-xs-12">
+      <div class="col-xs-12 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
         <iframe src="https://www.youtube.com/embed/IukYi79V7jA"></iframe>
       </div>
     </div>
@@ -14,7 +14,7 @@
       <div class="col-xs-12">
         <h4 class="nopad">Thanks for signing up. After you watch the video, head over to:</h4>
       </div>
-      <div class="col-xs-12">
+      <div class="col-xs-12 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
         <a href="http://www.electrifyyourstrings.com/"><img class="logo" src="../wp-content/themes/splash/assets/img/eys-logo.png"></a>
       </div>
     </div>
