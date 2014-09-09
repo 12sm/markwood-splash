@@ -120,6 +120,7 @@ iframe {
 #icons {
   list-style : none;
   padding-left: 0px !important;
+  margin-top : 30px !important;
 }
 
 li {
