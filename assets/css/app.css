@@ -119,10 +119,12 @@ iframe {
 
 .icons {
   list-style : none;
+  padding-left: 0px !important;
 }
 
 li {
   display : inline-block;
+  padding: 0px 10px 0px 10px;
 }
 
 /* ==========================================================================
