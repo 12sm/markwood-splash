@@ -188,6 +188,14 @@ i {
     font-size: 18px;
     padding-bottom: 20px;
   }
+
+  .previewshell {
+    -webkit-background-size: 140%;
+    -moz-background-size: 140%;
+    -o-background-size: 140%;
+    background-size: 140%;
+    padding: 0px 0px 28% 0px !important;
+  }
 }
 
 /* Large devices (large desktops, 1200px and up) */
